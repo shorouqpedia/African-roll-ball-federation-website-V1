@@ -1,0 +1,9 @@
+african roll ball federation website
+Functions :
+Get in touch : it's a small part at the end of the site to allow admins getting feedback from players or users as general .
+Register : every player in africa should apply this form to facilitate search results for Admins , all fields is required, and no repeated emails.
+Gallery : here users can view all pictures , if users want a specific country they can choose the country form home page , Admins can add or delete a pictures only if the admin has logged in.
+News: this part of home page displays the new events , admin can delete or add also if he has logged in.
+login : it is allowed for admin to let authority to use some functions like add or delete.
+players: only admin can use this part , he can display all players have registerd, and filter them by state , gender or age category.
+messages : for admins only , it displays the feed back or messages from get in touch, admin can delete if he need.
